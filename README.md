@@ -8,4 +8,4 @@
 - Imported libraries to help me with calculations
 
 ## ⏱️ How long did it take?
-- This project took arounda 2 weeks to create
+- This project took around 2 weeks to create
