@@ -1,6 +1,6 @@
 # 🧮 Simple Calculator
 - This is a calculator created in **C#**
-- It Performs very basic calcualtions like **addition**, **multiplication**, **subtraction** and **division**.
+- It Performs very basic calculations like **addition**, **multiplication**, **subtraction** and **division**.
 
 ## ❓What was it made with and How was it made?
 - As mentioned prior, it was created in **C#** in **visual studio** and is a **windows form application**.
